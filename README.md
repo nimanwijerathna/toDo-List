@@ -1,2 +1,2 @@
 # toDo-List
-This is a responsive To-Do List application built with HTML, CSS, and JavaScript. The app allows users to add, update, and remove tasks. All tasks are stored locally, ensuring they persist even after the browser is closed. 
+This responsive To-Do List application is built with HTML, CSS, and JavaScript. The app allows users to add, update, and remove tasks. A key feature is the ability to edit tasks directly by double-clicking on them. The design includes a subtle box-shadow animation that adds a modern and dynamic look to the interface. All tasks are stored locally, ensuring they persist even after the browser is closed.
