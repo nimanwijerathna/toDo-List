@@ -3,3 +3,5 @@ This responsive To-Do List application is built with HTML, CSS, and JavaScript. 
 
 Preview
 ![todolist](https://github.com/user-attachments/assets/08ed8494-1dfb-43a6-9003-bff55f26ebe4)
+
+You can [view a live demo of the To-Do List here](https://nimanwijerathna.github.io/toDo-List/).
